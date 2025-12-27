@@ -5,7 +5,7 @@ ID: CT04DR2957
 Domain: Machine Learning
 Duration: DEC 2025 – JAN 2026
 Mentor: MUZAMMIL
-
+![Screenshort](https://github.com/kaviyaanandan/CODETECH-TASK3/blob/339d621014e5b47f3bd6f71f566da77fcac0d823/task-3.png)
 
 Overview of the Project
 Project Title- Image Classification Model Using Convolutional Neural Network (CNN)
